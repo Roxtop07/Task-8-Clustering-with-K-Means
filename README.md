@@ -110,7 +110,7 @@ print(f"Silhouette Score: {score:.2f}")
 
 | Output File           | Description                               |
 |------------------------|-------------------------------------------|
-| (elbow_method)(elbow_method.png)     | Elbow plot to choose optimal clusters     |
+| [elbow_method](elbow_method.png)     | Elbow plot to choose optimal clusters     |
 | [kmeans_clusters](kmeans_clusters.png)  | 2D projection of clusters using PCA       |
 
 ---
